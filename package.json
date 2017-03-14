@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-fresh",
+  "version": "0.0.0",
+  "description": "ESLint sharable config for FRESH!",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "jsx-a11y.js",
+    "react.js",
+    "readme.md"
+  ],
+  "scripts": {
+    "test": "node test.js && eslint --max-warnings 0 -c index.js ."
+  },
+  "repository": "openfresh/eslint-config-fresh",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "1000ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openfresh/eslint-config-fresh/issues"
+  },
+  "homepage": "https://github.com/openfresh/eslint-config-fresh#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.17.0",
+    "eslint-config-xo-react": "^0.10.0",
+    "eslint-config-xo-space": "^0.15.0",
+    "eslint-plugin-react": "^6.10.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.17.1",
+    "eslint-config-xo-react": "^0.10.0",
+    "eslint-config-xo-space": "^0.15.0",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
