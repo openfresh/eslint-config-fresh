@@ -1,8 +1,7 @@
 module.exports = {
   parser  : 'babel-eslint',
   extends : [
-    'xo-space',
-    'xo-react/space'
+    'xo-space'
   ],
   env : {
     browser : true,

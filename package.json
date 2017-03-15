@@ -5,8 +5,6 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "jsx-a11y.js",
-    "react.js",
     "readme.md"
   ],
   "scripts": {
@@ -25,17 +23,11 @@
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.17.0",
-    "eslint-config-xo-react": "^0.10.0",
-    "eslint-config-xo-space": "^0.15.0",
-    "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.0"
+    "eslint-config-xo-space": "^0.15.0"
   },
   "peerDependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.17.1",
-    "eslint-config-xo-react": "^0.10.0",
-    "eslint-config-xo-space": "^0.15.0",
-    "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.0"
+    "eslint-config-xo-space": "^0.15.0"
   }
 }

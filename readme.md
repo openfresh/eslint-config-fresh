@@ -17,9 +17,7 @@ In `.eslintrc`:
 ```json
 {
   "extends": [
-    "eslint-config-fresh",
-    "eslint-config-fresh/react",
-    "eslint-config-fresh/jsx-a11y"
+    "eslint-config-fresh"
   ]
 }
 ```
@@ -30,9 +28,7 @@ In `package.json`:
 {
   "eslintConfig": {
     "extends": [
-      "eslint-config-fresh",
-      "eslint-config-fresh/react",
-      "eslint-config-fresh/jsx-a11y"
+      "eslint-config-fresh"
     ]
   }
 }
