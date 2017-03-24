@@ -15,6 +15,7 @@ module.exports = {
       afterColon  : true
     }],
     'no-negated-condition'        : 'off',
+    'capitalized-comments'        : 'off',
     'object-curly-spacing'        : ['error', 'always'],
     'quote-props'                 : ['error', 'consistent'],
     'space-before-function-paren' : ['error', 'never']
