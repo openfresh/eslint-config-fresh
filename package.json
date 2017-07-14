@@ -8,7 +8,7 @@
     "readme.md"
   ],
   "scripts": {
-    "test": "node test.js && eslint --max-warnings 0 -c index.js ."
+    "test": "eslint --max-warnings 0 -c index.js ."
   },
   "repository": "openfresh/eslint-config-fresh",
   "keywords": [
@@ -21,12 +21,12 @@
   },
   "homepage": "https://github.com/openfresh/eslint-config-fresh#readme",
   "devDependencies": {
-    "babel-eslint": "^7.1.1",
-    "eslint": "^3.18.0",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.2.0",
     "eslint-config-xo-space": "^0.16.0"
   },
   "peerDependencies": {
-    "eslint": "^3.18.0",
+    "eslint": "^4.2.0",
     "eslint-config-xo-space": "^0.16.0"
   }
 }
