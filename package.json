@@ -22,11 +22,11 @@
   "homepage": "https://github.com/openfresh/eslint-config-fresh#readme",
   "devDependencies": {
     "babel-eslint": "^8.0.0",
-    "eslint": "^4.6.1",
+    "eslint": "^4.8.0",
     "eslint-config-xo-space": "^0.16.0"
   },
   "peerDependencies": {
-    "eslint": "^4.6.1",
+    "eslint": "^4.8.0",
     "eslint-config-xo-space": "^0.16.0"
   }
 }
