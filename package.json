@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fresh",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "ESLint sharable config for FRESH!",
   "main": "index.js",
   "files": [
