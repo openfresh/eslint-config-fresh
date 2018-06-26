@@ -7,6 +7,9 @@
     "index.js",
     "readme.md"
   ],
+  "engines": {
+    "node": ">=6"
+  },
   "scripts": {
     "test": "eslint --max-warnings 0 -c index.js ."
   },
